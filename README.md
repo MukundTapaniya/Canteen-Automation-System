@@ -48,7 +48,7 @@ To get a local copy of this project running, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Canteen-Automation-System.git
+   git clone https://github.com/MukundTapaniya/Canteen-Automation-System.git
 
 2. **Navigate to the project directory**:
    ```bash
