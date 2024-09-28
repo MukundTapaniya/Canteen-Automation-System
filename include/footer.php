@@ -26,12 +26,11 @@
                     <h5>Address</h5>
                     <p>Ganpat Vidyanagar Mehsana-Gozaria, Highway, Kherva, Gujarat 384012</p>
                     <h5>Phone: +91 8866010082</a></h5>
-                    <h5>Phone: +91 7575061314</a></h5>
-
+                    <h5>Email : mukundtapaniya@gmail.com</h5>
                 </div>
                 <div class="col-xs-12 col-sm-5 additional-info color-gray">
                     <h5>Addition informations</h5>
-                    <p>This is a Canteen Automation System. Developed by Ganpat University Students named Kashyap Bhalodiya & Mukund Tapaniya.</p>
+                    <p>This is a Canteen Automation System. Developed by Ganpat University Student named Mukund Tapaniya.</p>
                 </div>
             </div>
         </div>

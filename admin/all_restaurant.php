@@ -80,7 +80,7 @@
         </div>
         <div class="page-wrapper">
         <div style="padding-top: 10px;">
-                <marquee onMouseOver="this.stop()" onMouseOut="this.start()"> Canteen Automation System</a> is a Project developed by Ganpat University Students. It is developed by Mukund Tapaniya & Kashyap Bhalodiya.</marquee>
+                <marquee onMouseOver="this.stop()" onMouseOut="this.start()"> Canteen Automation System</a> is a Project developed by Ganpat University Student named Mukund Tapaniya.</marquee>
             </div>
             <div class="container-fluid">
                 <div class="row">
