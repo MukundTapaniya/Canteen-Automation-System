@@ -4,6 +4,8 @@ Welcome to the **Canteen Automation System**! This project is dedicated to moder
 
 ---
 
+## :clipboard: **[Project Report](https://drive.google.com/file/d/1lxQCAPtDM9O-ar8b2q2gk-oF2V9e_IgG/view?usp=sharing)**
+---
 ## 🌟 Features
 
 - **User Management**: 
